@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Roel van der Ploeg"
+  title: "G.R. van der Ploeg"
   navbar:
     right:
       - text: "About"

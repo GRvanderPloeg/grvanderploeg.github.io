@@ -2,4 +2,31 @@
 title: "About"
 ---
 
-About this site. Very important.
+# Personal information
+
+G.R. (Roel) van der Ploeg
+
+**Work address**:  
+Biosystems Data Analysis,  
+University of Amsterdam,   
+Science Park 904,  
+1098 XH, Amsterdam  
+
+**Work phone**: +31 205257931  
+**Email**: g.r.ploeg@uva.nl  
+**University website**: <https://www.uva.nl/profiel/p/l/g.r.ploeg/g.r.van-der-ploeg.html>   
+**Personal website**: <https://grvanderploeg.github.io/>  
+  
+## Social media
+**LinkedIn**: <http://www.linkedin.com/in/roel-van-der-ploeg-74a623178>  
+**The artist formerly known as Twitter**: TBD  
+**Mastodon**: TBD  
+**BlueSky**: TBD  
+
+# Professional Career
+
+Roel van der Ploeg studied Medical Natural Sciences at the Vrije Universiteit in Amsterdam, where he received with BSc degree cum laude in 2016. He then studied Bioinformatics and Systems Biology, which is a joint MSc degree between the Vrije Universiteit and University of Amsterdam, which he completed cum laude in 2020. As part of the program, he did an internship investigating mapping of logical models to experimental data to reveal potential mechanisms behind epistatic inversion at the Vrije Universiteit. He did a second internship investigating structural variant detection in colorectal cancer using Pacific Biosciences circular consensus sequencing long read data at the Netherlands Cancer Institute (NKI). He is currently a PhD candidate in the Biosystems Data Analysis group, investigating multi-way data integration methods for microbiome data. 
+
+# Research interest
+
+Roel van der Ploeg is a PhD candidate in the Biosystems Data Analysis group. His main research interest is multi-way data integration for microbiome data. Previous published work revolves around the application of Parallel Factor Analysis (PARAFAC) on longitudinal microbiome data. Future projects include the application of N-way partial least-squares (N-PLS) and Advanced Coupled Matrix and Tensor Factorization (ACMTF). 

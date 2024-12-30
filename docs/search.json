@@ -2,9 +2,9 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "publications",
+    "title": "Publications",
     "section": "",
-    "text": "I will put my publications here."
+    "text": "First authorships\n\nvan der Ploeg, G. R., Brandt, B. W., Keijser, B. J. F., Van Der Veen, M. H., Volgenant, C. M. C., Zaura, E., Smilde, A. K., Westerhuis, J. A., & Heintz-Buschart, A. (2024). Multi-way modelling of oral microbial dynamics and host-microbiome interactions during induced gingivitis. Npj Biofilms And Microbiomes, 10(1). https://doi.org/10.1038/s41522-024-00565-x\nvan der Ploeg, G. R., Westerhuis, J., Heintz-Buschart, A., & Smilde, A. (2024). parafac4microbiome: Exploratory analysis of longitudinal microbiome data using Parallel Factor Analysis. bioRxiv, 2024-05. https://doi.org/10.1101/2024.05.02.592191\n\n\n\nJoint first authorships\n\nJakobsen, R. R.*, van der Ploeg, G. R.* , Sundekilde, U. K., Astono, J., Poulsen, K. O., Fuglsang, J., Westerhuis, J. A., Heintz-Buschart, A. Smilde, A. K., Nielsen, D. S. (2025). Pre-pregnancy BMI affects human breast milk composition and infant gut microbiome development. Article in preparation.\nCornejo Ulloa, P.*, van der Ploeg, G. R.* , Heintz-Buschart, A., Westerhuis J. A., Smilde, A. K., Zaura, E., Brandt, B. W., Buijs, M. J., Bostanci, N., Silbereisen, A., Bikker, F. J., Nazmi, K., Tebbens, M., van der Heijer, M., Krom, B. P., van der Veen, M. H. (2025). Transgender Oral Health: Understanding the Effects of Gender Affirming Hormone Therapy. Article in preparation.\nGeorgiou, A. C.*, van der Ploeg, G. R.* , Westerhuis, J. A., van der Waal, S. V., Heintz-Buschart A., Smilde, A. K., Brandt, B. W. (2025). Multi-way modelling of the microbiome in relation to inflammatory response of apical periodontitis in blood. Article in preparation.\n\n\n\nCo-authorships\n\nAlbracht, C., Solbach, M. D., Hennecke, J., Bassi, L., van der Ploeg, G. R., Eisenhauer, N., … & Heintz-Buschart, A. (2024). Common soil history is more important than plant history for arbuscular mycorrhizal community assembly in an experimental grassland diversity gradient. Biology and Fertility of Soils, 1-16. https://doi.org/10.1007/s00374-024-01821-0"
   },
   {
     "objectID": "cv.html",
@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site. Very important."
+    "text": "G.R. (Roel) van der Ploeg\nWork address:\nBiosystems Data Analysis,\nUniversity of Amsterdam,\nScience Park 904,\n1098 XH, Amsterdam\nWork phone: +31 205257931\nEmail: g.r.ploeg@uva.nl\nUniversity website: https://www.uva.nl/profiel/p/l/g.r.ploeg/g.r.van-der-ploeg.html\nPersonal website: https://grvanderploeg.github.io/\n\n\nLinkedIn: http://www.linkedin.com/in/roel-van-der-ploeg-74a623178\nThe artist formerly known as Twitter: TBD\nMastodon: TBD\nBlueSky: TBD"
   },
   {
     "objectID": "index.html",
@@ -26,5 +26,19 @@
     "title": "Website",
     "section": "",
     "text": "This is the landing page of my personal website. To be completed."
+  },
+  {
+    "objectID": "about.html#work-address",
+    "href": "about.html#work-address",
+    "title": "About",
+    "section": "",
+    "text": "Biosystems Data Analysis,\nUniversity of Amsterdam,\nScience Park 904,\n1098 XH, Amsterdam\nPhone: +31 205257931\nEmail: g.r.ploeg@uva.nl\nUniversity website: https://www.uva.nl/profiel/p/l/g.r.ploeg/g.r.van-der-ploeg.html\nPersonal website: https://grvanderploeg.github.io/"
+  },
+  {
+    "objectID": "about.html#social-media",
+    "href": "about.html#social-media",
+    "title": "About",
+    "section": "",
+    "text": "LinkedIn: http://www.linkedin.com/in/roel-van-der-ploeg-74a623178\nThe artist formerly known as Twitter: TBD\nMastodon: TBD\nBlueSky: TBD"
   }
 ]

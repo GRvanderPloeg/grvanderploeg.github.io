@@ -1,7 +1,23 @@
 ---
-title: "publications"
+title: "Publications"
 format: html
 editor: visual
 ---
 
-I will put my publications here.
+# First authorships
+
+- **van der Ploeg, G. R.**, Brandt, B. W., Keijser, B. J. F., Van Der Veen, M. H., Volgenant, C. M. C., Zaura, E., Smilde, A. K., Westerhuis, J. A., & Heintz-Buschart, A. (2024). Multi-way modelling of oral microbial dynamics and host-microbiome interactions during induced gingivitis. *Npj Biofilms And Microbiomes*, 10(1). <https://doi.org/10.1038/s41522-024-00565-x>
+
+- **van der Ploeg, G. R.**, Westerhuis, J., Heintz-Buschart, A., & Smilde, A. (2024). parafac4microbiome: Exploratory analysis of longitudinal microbiome data using Parallel Factor Analysis. *bioRxiv*, 2024-05. <https://doi.org/10.1101/2024.05.02.592191>
+
+# Joint first authorships
+
+- Jakobsen, R. R.\*, **van der Ploeg, G. R.\* **, Sundekilde, U. K., Astono, J., Poulsen, K. O., Fuglsang, J., Westerhuis, J. A., Heintz-Buschart, A. Smilde, A. K., Nielsen, D. S. (2025). Pre-pregnancy BMI affects human breast milk composition and infant gut microbiome development. Article in preparation.
+
+- Cornejo Ulloa, P.\*, **van der Ploeg, G. R.\* **, Heintz-Buschart, A., Westerhuis J. A., Smilde, A. K., Zaura, E., Brandt, B. W., Buijs, M. J., Bostanci, N., Silbereisen, A., Bikker, F. J., Nazmi, K., Tebbens, M., van der Heijer, M., Krom, B. P., van der Veen, M. H. (2025). Transgender Oral Health: Understanding the Effects of Gender Affirming Hormone Therapy. Article in preparation.
+
+- Georgiou, A. C.\*, **van der Ploeg, G. R.\* **, Westerhuis, J. A., van der Waal, S. V., Heintz-Buschart A., Smilde, A. K., Brandt, B. W. (2025). Multi-way modelling of the microbiome in relation to inflammatory response of apical periodontitis in blood. Article in preparation.
+
+# Co-authorships
+
+- Albracht, C., Solbach, M. D., Hennecke, J., Bassi, L., **van der Ploeg, G. R.**, Eisenhauer, N., ... & Heintz-Buschart, A. (2024). Common soil history is more important than plant history for arbuscular mycorrhizal community assembly in an experimental grassland diversity gradient. *Biology and Fertility of Soils*, 1-16. <https://doi.org/10.1007/s00374-024-01821-0>
