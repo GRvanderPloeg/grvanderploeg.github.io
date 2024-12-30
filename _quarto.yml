@@ -6,12 +6,12 @@ website:
   title: "G.R. van der Ploeg"
   navbar:
     right:
-      - text: "About"
-        href: about.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Publications"
         href: publications.qmd
+      - text: "Presentations"
+        href: presentations.qmd
 
 format:
   html:
