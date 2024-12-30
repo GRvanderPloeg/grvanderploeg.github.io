@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: docs
+
 website:
   title: "Roel van der Ploeg"
   navbar:
@@ -10,7 +12,6 @@ website:
         href: cv.qmd
       - text: "Publications"
         href: publications.qmd
-
 
 format:
   html:
