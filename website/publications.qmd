@@ -1,0 +1,7 @@
+---
+title: "publications"
+format: html
+editor: visual
+---
+
+I will put my publications here.
