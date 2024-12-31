@@ -22,9 +22,13 @@ Science Park 904,
 ## Social media
 
 **LinkedIn**: <http://www.linkedin.com/in/roel-van-der-ploeg-74a623178>  
-**The artist formerly known as Twitter**: TBD  
-**Mastodon**: TBD  
-**BlueSky**: TBD  
+**The artist formerly known as Twitter**: [@GRvanderPloeg](https://x.com/GRvanderPloeg/)  
+**Mastodon**: [@GRvanderPloeg](https://mastodon.social/@GRvanderPloeg)  
+**BlueSky**: [@grvanderploeg.bsky.social](https://bsky.app/profile/grvanderploeg.bsky.social)
+
+# Curriculum Vitae
+
+For a complete overview, please see [CV](https://grvanderploeg.github.io/cv.html).
 
 # Professional Career
 
@@ -33,6 +37,17 @@ Roel van der Ploeg studied Medical Natural Sciences at the Vrije Universiteit in
 # Research interest
 
 Roel van der Ploeg is a PhD candidate in the Biosystems Data Analysis group. His main research interest is multi-way data integration for microbiome data. Previous published work revolves around the application of Parallel Factor Analysis (PARAFAC) on longitudinal microbiome data. Future projects include the application of N-way partial least-squares (N-PLS) and Advanced Coupled Matrix and Tensor Factorization (ACMTF). 
+
+# Publications
+
+For an up-to-date overview, please see [publications](https://grvanderploeg.github.io/publications.html).
+
+**Google Scholar**: <https://scholar.google.com/citations?user=2FgATEsAAAAJ&hl=nl>  
+**ORCID**: [0009-0007-5204-3386](https://orcid.org/0009-0007-5204-3386)
+
+# Presentations
+
+For an up-to-date overview, please see [presentations](https://grvanderploeg.github.io/presentations.html).
 
 # R packages
 
