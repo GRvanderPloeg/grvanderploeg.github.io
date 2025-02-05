@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-![Geert Roelof van der Ploeg](profile.jpeg){width=50% fig-align="left"}
+![Geert Roelof van der Ploeg](thumbnail_Roel van der Ploeg_pp.jpg){width=50% fig-align="left"}
 
 # Personal information
 
@@ -51,5 +51,5 @@ For an up-to-date overview, please see [presentations](https://grvanderploeg.git
 
 # R packages
 
-- [parafac4microbiome](https://cloud.r-project.org/web/packages/parafac4microbiome/index.html): Parallel Factor Analysis Modelling of Longitudinal Microbiome Data.  
+- [parafac4microbiome](https://grvanderploeg.github.io/parafac4microbiome/): Parallel Factor Analysis Modelling of Longitudinal Microbiome Data.  
 - [CMTFtoolbox](https://grvanderploeg.github.io/CMTFtoolbox/): integration of multi-way datasets using Advanced Coupled and Matrix Tensor Factorization.
