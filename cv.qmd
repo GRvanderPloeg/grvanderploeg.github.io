@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-![Geert Roelof van der Ploeg](profile.jpeg){width="50%" fig-align="left"}
+![Geert Roelof van der Ploeg](thumbnail_Roel van der Ploeg_pp.jpg){width=50% fig-align="left"}
 
 # Personal data
 
