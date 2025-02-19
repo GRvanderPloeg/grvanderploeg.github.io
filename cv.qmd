@@ -4,45 +4,43 @@ format: html
 editor: visual
 ---
 
-![Geert Roelof van der Ploeg](profile.jpeg){width=50% fig-align="left"}
+![Geert Roelof van der Ploeg](profile.jpeg){width="50%" fig-align="left"}
 
 # Personal data
 
-**Full name**: Geert Roelof van der Ploeg  
-**Date of Birth**: October 9th, 1995  
-**Place of Birth**: Groningen  
+**Full name**: Geert Roelof van der Ploeg\
+**Date of Birth**: October 9th, 1995\
+**Place of Birth**: Groningen
 
 # Work address
 
-**Group**: Biosystems Data Analysis, University of Amsterdam  
-**Address**: Science Park 904, 1098 XH, Amsterdam  
-**Phone**: +31 205257931  
-**Email**: g.r.ploeg@uva.nl  
-**University website**: <https://www.uva.nl/profiel/p/l/g.r.ploeg/g.r.van-der-ploeg.html>   
-**Personal website**: <https://grvanderploeg.github.io/> 
+**Group**: Biosystems Data Analysis, University of Amsterdam\
+**Address**: Science Park 904, 1098 XH, Amsterdam\
+**Phone**: +31 205257931\
+**Email**: g.r.ploeg\@uva.nl\
+**University website**: <https://www.uva.nl/profiel/p/l/g.r.ploeg/g.r.van-der-ploeg.html>\
+**Personal website**: <https://grvanderploeg.github.io/>
 
 # Education
 
-**2021-**: PhD *University of Amsterdam*  
+**2021-**: PhD *University of Amsterdam*
 
-**2016-2020**: MSc *Vrije Universiteit Amsterdam / University of Amsterdam (joint degree)* Bioinformatics & Systems Biology (Cum Laude).  
-- Thesis title 1: Validation of simulated inversion networks using gene expression data and
-BioGRiD.    
-- Thesis title 2: Investigation of SV detection in CRC using PacBio long HiFi read
-sequencing data.  
+**2016-2020**: MSc *Vrije Universiteit Amsterdam / University of Amsterdam (joint degree)* Bioinformatics & Systems Biology (Cum Laude).\
+- Thesis title 1: Validation of simulated inversion networks using gene expression data and BioGRiD.\
+- Thesis title 2: Investigation of SV detection in CRC using PacBio long HiFi read sequencing data.
 
-**2013-2016**: BSc *Vrije Universiteit Amsterdam* Medical Natural Sciences (Cum Laude).  
+**2013-2016**: BSc *Vrije Universiteit Amsterdam* Medical Natural Sciences (Cum Laude).\
 - Thesis title: Influence of Aurora Kinase A on WNT/$\beta$-catenin signaling.
 
 # Experience
 
-**2021-**: PhD *University of Amsterdam*  
+**2021-**: PhD *University of Amsterdam*
 
 **2020-2021**: Bioinformatician *Swammerdam Institute for Life Sciences*
 
 # Management Activities
 
-**2023-2024**: PhD Council Chair *University of Amsterdam*  
+**2023-2024**: PhD Council Chair *University of Amsterdam*\
 **2021-2023**: PhD Council member *University of Amsterdam*
 
 # Outreach Activities
@@ -55,7 +53,7 @@ sequencing data.
 
 For an up-to-date overview, please see [publications](https://grvanderploeg.github.io/publications.html).
 
-**Google Scholar**: <https://scholar.google.com/citations?user=2FgATEsAAAAJ&hl=nl>  
+**Google Scholar**: <https://scholar.google.com/citations?user=2FgATEsAAAAJ&hl=nl>\
 **ORCID**: [0009-0007-5204-3386](https://orcid.org/0009-0007-5204-3386)
 
 # Presentations
@@ -65,36 +63,36 @@ For an up-to-date overview, please see [presentations](https://grvanderploeg.git
 # Supervision and Teaching
 
 ## Qualifications
+
 **2023**: University Teaching Qualification (BKO)
 
 ## Activities
-**2021-**: Supervision of BSc and MSc students  
-**2021-**: Biosystems Data Analysis *MSc Bioinformatics & Systems Biology* Faculty of Sciences  
-**2021-2024**: Tools in Molecular Data Analysis *BSc Biological Sciences* Amsterdam University College (guest lecture)  
-**2021-2023**: Image Processing and Quantitative Data Analysis *MSc Bioinformatics & Systems Biology* Faculty of Sciences (guest lecture)  
+
+**2021-**: Supervision of BSc and MSc students\
+**2021-**: Biosystems Data Analysis *MSc Bioinformatics & Systems Biology* Faculty of Sciences\
+**2021-2024**: Tools in Molecular Data Analysis *BSc Biological Sciences* Amsterdam University College (guest lecture)\
+**2021-2023**: Image Processing and Quantitative Data Analysis *MSc Bioinformatics & Systems Biology* Faculty of Sciences (guest lecture)
 
 # Programming skills
 
-**R and Rstudio**: expert  
-**Python 2 and 3**: experienced  
-**Bash**: experienced  
-**C, C++, C\#**: moderate  
-**Java**: moderate  
+**R and Rstudio**: expert\
+**Python 2 and 3**: experienced\
+**Bash**: experienced\
+**C, C++, C#**: moderate\
+**Java**: moderate
 
 # Languages
 
-**Dutch**: Native (C2)  
-**English**: Fluent (C1)  
-**German**: Moderate (B1)  
-**French**: Moderate (B1)  
-**Spanish**: Beginner (A2)  
+**Dutch**: Native (C2)\
+**English**: Fluent (C1)\
+**German**: Moderate (B1)\
+**French**: Moderate (B1)\
+**Spanish**: Beginner (A2)
 
 # Personal Interests
 
-- Philosophy (of Science)  
-- Macro-economics  
-- Sociology and political science  
-- Story-rich video games  
-
-
-
+-   Philosophy (of Science)\
+-   Macro-economics\
+-   Sociology\
+-   Political science\
+-   Story-rich video games
