@@ -4,19 +4,23 @@ format: html
 editor: visual
 ---
 
+## 2025
+
+-  **van der Ploeg, G. R.**, Heintz-Buschart A., Westerhuis, J. A., Smilde, A. K., "Unraveling Host-Microbiome-Dynamics: Power Discovery with Multi-Way Analysis", *Poster presentation*, Amsterdam Microbiome Expertise Center (AMEC) Day 2025, February 13, Amsterdam, the Netherlands. [Link to the poster](https://bsky.app/profile/grvanderploeg.bsky.social/post/3li3gdgryoo2m)
+
 ## 2024
 
-- **van der Ploeg G.R. & White, F. T. G.**, "Describing common and distinct variation in multi-omics studies", *Invited oral presentation*, TrACEr workshop, April 22-23, Oslo, Norway.
-- **van der Ploeg, G. R.**, "parafac4microbiome: Exploratory analysis of longitudinal microbiome data using Parallel Factor Analysis", *Oral presentation*, BioSB, May 18-19, Egmond aan Zee, the Netherlands. 
+-   **van der Ploeg, G.R. & White, F. T. G.**, "Describing common and distinct variation in multi-omics studies", *Invited oral presentation*, TrACEr workshop, April 22-23, Oslo, Norway.
+-   **van der Ploeg, G. R.**, "parafac4microbiome: Exploratory analysis of longitudinal microbiome data using Parallel Factor Analysis", *Oral presentation*, BioSB, May 18-19, Egmond aan Zee, the Netherlands.
 
 ## 2023
 
-- **van der Ploeg, G. R.**, "High-level integration of longitudinal oral microbiome and metabolome data finds pathways important to induced gingivitis", *Oral presentation*, BioSB, May 9-10, Egmond aan Zee, the Netherlands.  
-- **van der Ploeg, G. R.**, van der Veen, M. H., Keijser, B. J. F., Zaura, E., Heintz-Buschart A., Westerhuis, J. A., Smilde, A. K., "Multi-omics data integration identifies oral-o-types and pathways important to induced gingivitis", *Poster presentation*, SILS Research Day, June 29, Amsterdam, the Netherlands.  
+-   **van der Ploeg, G. R.**, "High-level integration of longitudinal oral microbiome and metabolome data finds pathways important to induced gingivitis", *Oral presentation*, BioSB, May 9-10, Egmond aan Zee, the Netherlands.\
+-   **van der Ploeg, G. R.**, van der Veen, M. H., Keijser, B. J. F., Zaura, E., Heintz-Buschart A., Westerhuis, J. A., Smilde, A. K., "Multi-omics data integration identifies oral-o-types and pathways important to induced gingivitis", *Poster presentation*, SILS Research Day, June 29, Amsterdam, the Netherlands.
 
 ## 2022
 
-- **van der Ploeg, G. R.**, "Data integration of oral microbiome and metabolome data using PARAFAC", *Oral presentation*, Dutch Chemometrics Society, April 1, Online.
-- **van der Ploeg, G. R.**, "Data integration of oral microbiome and metabolome data using PARAFAC", *Oral presentation*, SILS Research Day, June 21, Amsterdam, the Netherlands.
-- **van der Ploeg, G. R.**, Heintz-Buschart A., Westerhuis, J. A., Smilde, A. K., "Data integration of oral microbiome and metabolome using PARAFAC", *Poster presentation*, BioSB, June 28-29, Lunteren, the Netherlands.  
-
+-   **van der Ploeg, G. R.**, "Data integration of oral microbiome and metabolome data using PARAFAC", *Oral presentation*, Dutch Chemometrics Society, April 1, Online.
+-   **van der Ploeg, G. R.**, "Data integration of oral microbiome and metabolome data using PARAFAC", *Oral presentation*, SILS Research Day, June 21, Amsterdam, the Netherlands.
+-   **van der Ploeg, G. R.**, Heintz-Buschart A., Westerhuis, J. A., Smilde, A. K., "Data integration of oral microbiome and metabolome using PARAFAC", *Poster presentation*, BioSB, June 28-29, Lunteren, the Netherlands.
+-   **van der Ploeg, G. R.**, "Modelling the development of gingivitis", *Oral presentation*, Path Modelling Workshop, 25-26 April, Zaandam, the Netherlands.
