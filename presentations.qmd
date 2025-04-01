@@ -6,7 +6,10 @@ editor: visual
 
 ## 2025
 
--  **van der Ploeg, G. R.**, Heintz-Buschart A., Westerhuis, J. A., Smilde, A. K., "Unraveling Host-Microbiome-Dynamics: Powering Discovery with Multi-Way Analysis", *Poster presentation*, Amsterdam Microbiome Expertise Center (AMEC) Day 2025, February 13, Amsterdam, the Netherlands. [Link to the poster](https://bsky.app/profile/grvanderploeg.bsky.social/post/3li3gdgryoo2m)
+-   **van der Ploeg, G. R.**, Heintz-Buschart A., Westerhuis, J. A., Smilde, A. K., "Unraveling Host-Microbiome-Dynamics: Powering Discovery with Multi-Way Analysis", *Poster presentation*, Amsterdam Microbiome Expertise Center (AMEC) Day 2025, February 13, Amsterdam, the Netherlands. [Link to the poster](https://bsky.app/profile/grvanderploeg.bsky.social/post/3li3gdgryoo2m)
+-   **van der Ploeg, G. R.,** "Microbiome data analysis using multi-way methods", *Oral presentation*, RPA-PMH Microbiome Friday, April 3, Amsterdam, the Netherlands.
+-   **van der Ploeg, G. R.,** Westerhuis, J. A., Heintz-Buschart A., Smilde, A. K.,"Microbiome data analysis using multi-way methods", *Oral presentation*, BioSB, May 20-21, Baarlo, the Netherlands.
+-   **van der Ploeg, G. R.**, White, F. T. G., Westerhuis, J. A., Heintz-Buschart A., Smilde, A. K., "ACMTF-R: multi-way data fusion using biological variation of interest", *Oral presentation*, TRICAP2025, June 23-27, Alesund, Norway.
 
 ## 2024
 

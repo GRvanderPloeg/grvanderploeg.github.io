@@ -25,10 +25,11 @@ Science Park 904,
 **The artist formerly known as Twitter**: [@GRvanderPloeg](https://x.com/GRvanderPloeg/)  
 **Mastodon**: [@GRvanderPloeg](https://mastodon.social/@GRvanderPloeg)  
 **BlueSky**: [@grvanderploeg.bsky.social](https://bsky.app/profile/grvanderploeg.bsky.social)
+**Github**: [GRvanderPloeg](https://github.com/GRvanderPloeg)
 
 # Curriculum Vitae
 
-For a complete overview, please see [CV](https://grvanderploeg.github.io/cv.html).
+For a complete overview, please see [CV](https://grvanderploeg.com/cv.html).
 
 # Professional Career
 
@@ -40,16 +41,17 @@ Roel van der Ploeg is a PhD candidate in the Biosystems Data Analysis group. His
 
 # Publications
 
-For an up-to-date overview, please see [publications](https://grvanderploeg.github.io/publications.html).
+For an up-to-date overview, please see [publications](https://grvanderploeg.com/publications.html).
 
 **Google Scholar**: <https://scholar.google.com/citations?user=2FgATEsAAAAJ&hl=nl>  
 **ORCID**: [0009-0007-5204-3386](https://orcid.org/0009-0007-5204-3386)
 
 # Presentations
 
-For an up-to-date overview, please see [presentations](https://grvanderploeg.github.io/presentations.html).
+For an up-to-date overview, please see [presentations](https://grvanderploeg.com/presentations.html).
 
 # R packages
 
-- [parafac4microbiome](https://grvanderploeg.github.io/parafac4microbiome/): Parallel Factor Analysis Modelling of Longitudinal Microbiome Data.  
-- [CMTFtoolbox](https://grvanderploeg.github.io/CMTFtoolbox/): integration of multi-way datasets using Advanced Coupled and Matrix Tensor Factorization.
+- [parafac4microbiome](https://grvanderploeg.com/parafac4microbiome/): Parallel Factor Analysis Modelling of Longitudinal Microbiome Data.  
+- [NPLStoolbox](https://grvanderploeg.com/NPLStoolbox/): N-way Partial Least Squares for Longitudinal Microbiome data.
+- [CMTFtoolbox](https://grvanderploeg.com/CMTFtoolbox/): integration of multi-way datasets using Advanced Coupled and Matrix Tensor Factorization.

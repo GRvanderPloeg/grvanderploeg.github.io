@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-![Geert Roelof van der Ploeg](thumbnail_Roel van der Ploeg_pp.jpg){width=50% fig-align="left"}
+![Geert Roelof van der Ploeg](thumbnail_Roel%20van%20der%20Ploeg_pp.jpg){width="50%" fig-align="left"}
 
 # Personal data
 
@@ -19,7 +19,7 @@ editor: visual
 **Phone**: +31 205257931\
 **Email**: g.r.ploeg\@uva.nl\
 **University website**: <https://www.uva.nl/profiel/p/l/g.r.ploeg/g.r.van-der-ploeg.html>\
-**Personal website**: <https://grvanderploeg.github.io/>
+**Personal website**: <https://grvanderploeg.com/>
 
 # Education
 

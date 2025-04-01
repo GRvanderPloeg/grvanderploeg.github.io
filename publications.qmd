@@ -14,9 +14,9 @@ editor: visual
 
 # Joint first authorships
 
--   Jakobsen, R. R.\*, **van der Ploeg, G. R.\*** , Sundekilde, U. K., Astono, J., Poulsen, K. O., Fuglsang, J., Westerhuis, J. A., Heintz-Buschart, A. Smilde, A. K., Nielsen, D. S. (2025). Pre-pregnancy BMI affects human breast milk composition and infant gut microbiome development. Article in preparation.
+-   Jakobsen, R. R.\*, **van der Ploeg, G. R.\*** , Sundekilde, U. K., Astono, J., Poulsen, K. O., Fuglsang, J., Westerhuis, J. A., Heintz-Buschart, A. Smilde, A. K., Nielsen, D. S. (2025). Supervised Modelling of Longitudinal Human Milk and Infant Gut Microbiome Reveal Maternal Pre-Pregnancy BMI and Early Life Growth Interactions. Article in preparation.
 
--   Cornejo Ulloa, P.\*, **van der Ploeg, G. R.\*** , Heintz-Buschart, A., Westerhuis J. A., Smilde, A. K., Zaura, E., Brandt, B. W., Buijs, M. J., Bostanci, N., Silbereisen, A., Bikker, F. J., Nazmi, K., Tebbens, M., van der Heijer, M., Krom, B. P., van der Veen, M. H. (2025). Transgender Oral Health: Understanding the Effects of Gender Affirming Hormone Therapy. Article in preparation.
+-   Cornejo Ulloa, P.\*, **van der Ploeg, G. R.\*** , Heintz-Buschart, A., Westerhuis J. A., Smilde, A. K., Zaura, E., Brandt, B. W., Buijs, M. J., Bostanci, N., Silbereisen, A., Bikker, F. J., Nazmi, K., Tebbens, M., van der Heijer, M., Krom, B. P., van der Veen, M. H. (2025). Shifting Hormones, Shaping Health: Gender-Affirming Therapy & Oral Care. Article in preparation.
 
 -   Georgiou, A. C.\*, **van der Ploeg, G. R.\*** , Westerhuis, J. A., van der Waal, S. V., Heintz-Buschart A., Smilde, A. K., Brandt, B. W. (2025). Multi-way modelling of the microbiome in relation to inflammatory response of apical periodontitis in blood. Submitted.
 
