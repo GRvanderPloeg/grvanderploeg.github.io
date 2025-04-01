@@ -2,29 +2,29 @@
 title: "About"
 ---
 
-![Geert Roelof van der Ploeg](thumbnail_Roel van der Ploeg_pp.jpg){width=50% fig-align="left"}
+![Geert Roelof van der Ploeg](thumbnail_Roel%20van%20der%20Ploeg_pp.jpg){width="50%" fig-align="left"}
 
 # Personal information
 
 G.R. (Roel) van der Ploeg
 
-**Work address**:  
-Biosystems Data Analysis,  
-University of Amsterdam,   
-Science Park 904,  
-1098 XH, Amsterdam  
+**Work address**:\
+Biosystems Data Analysis,\
+University of Amsterdam,\
+Science Park 904,\
+1098 XH, Amsterdam
 
-**Work phone**: +31 205257931  
-**Email**: g.r.ploeg@uva.nl  
-**University website**: <https://www.uva.nl/profiel/p/l/g.r.ploeg/g.r.van-der-ploeg.html>   
-**Personal website**: <https://grvanderploeg.github.io/>  
-  
+**Work phone**: +31 205257931\
+**Email**: g.r.ploeg\@uva.nl\
+**University website**: <https://www.uva.nl/profiel/p/l/g.r.ploeg/g.r.van-der-ploeg.html>\
+**Personal website**: <https://grvanderploeg.github.io/>
+
 ## Social media
 
-**LinkedIn**: <http://www.linkedin.com/in/roel-van-der-ploeg-74a623178>  
-**The artist formerly known as Twitter**: [@GRvanderPloeg](https://x.com/GRvanderPloeg/)  
-**Mastodon**: [@GRvanderPloeg](https://mastodon.social/@GRvanderPloeg)  
-**BlueSky**: [@grvanderploeg.bsky.social](https://bsky.app/profile/grvanderploeg.bsky.social)
+**LinkedIn**: <http://www.linkedin.com/in/roel-van-der-ploeg-74a623178>\
+**The artist formerly known as Twitter**: [\@GRvanderPloeg](https://x.com/GRvanderPloeg/)\
+**Mastodon**: [\@GRvanderPloeg](https://mastodon.social/@GRvanderPloeg)\
+**BlueSky**: [\@grvanderploeg.bsky.social](https://bsky.app/profile/grvanderploeg.bsky.social)\
 **Github**: [GRvanderPloeg](https://github.com/GRvanderPloeg)
 
 # Curriculum Vitae
@@ -33,17 +33,17 @@ For a complete overview, please see [CV](https://grvanderploeg.com/cv.html).
 
 # Professional Career
 
-Roel van der Ploeg studied Medical Natural Sciences at the Vrije Universiteit in Amsterdam, where he received with BSc degree cum laude in 2016. He then studied Bioinformatics and Systems Biology, which is a joint MSc degree between the Vrije Universiteit and University of Amsterdam, which he completed cum laude in 2020. As part of the program, he did an internship investigating mapping of logical models to experimental data to reveal potential mechanisms behind epistatic inversion at the Vrije Universiteit. He did a second internship investigating structural variant detection in colorectal cancer using Pacific Biosciences circular consensus sequencing long read data at the Netherlands Cancer Institute (NKI). He is currently a PhD candidate in the Biosystems Data Analysis group, investigating multi-way data integration methods for microbiome data. 
+Roel van der Ploeg studied Medical Natural Sciences at the Vrije Universiteit in Amsterdam, where he received with BSc degree cum laude in 2016. He then studied Bioinformatics and Systems Biology, which is a joint MSc degree between the Vrije Universiteit and University of Amsterdam, which he completed cum laude in 2020. As part of the program, he did an internship investigating mapping of logical models to experimental data to reveal potential mechanisms behind epistatic inversion at the Vrije Universiteit. He did a second internship investigating structural variant detection in colorectal cancer using Pacific Biosciences circular consensus sequencing long read data at the Netherlands Cancer Institute (NKI). He is currently a PhD candidate in the Biosystems Data Analysis group, investigating multi-way data integration methods for microbiome data.
 
 # Research interest
 
-Roel van der Ploeg is a PhD candidate in the Biosystems Data Analysis group. His main research interest is multi-way data integration for microbiome data. Previous published work revolves around the application of Parallel Factor Analysis (PARAFAC) on longitudinal microbiome data. Future projects include the application of N-way partial least-squares (N-PLS) and Advanced Coupled Matrix and Tensor Factorization (ACMTF). 
+Roel van der Ploeg is a PhD candidate in the Biosystems Data Analysis group. His main research interest is multi-way data integration for microbiome data. Previous published work revolves around the application of Parallel Factor Analysis (PARAFAC) on longitudinal microbiome data. Future projects include the application of N-way partial least-squares (N-PLS) and Advanced Coupled Matrix and Tensor Factorization (ACMTF).
 
 # Publications
 
 For an up-to-date overview, please see [publications](https://grvanderploeg.com/publications.html).
 
-**Google Scholar**: <https://scholar.google.com/citations?user=2FgATEsAAAAJ&hl=nl>  
+**Google Scholar**: <https://scholar.google.com/citations?user=2FgATEsAAAAJ&hl=nl>\
 **ORCID**: [0009-0007-5204-3386](https://orcid.org/0009-0007-5204-3386)
 
 # Presentations
@@ -52,6 +52,6 @@ For an up-to-date overview, please see [presentations](https://grvanderploeg.com
 
 # R packages
 
-- [parafac4microbiome](https://grvanderploeg.com/parafac4microbiome/): Parallel Factor Analysis Modelling of Longitudinal Microbiome Data.  
-- [NPLStoolbox](https://grvanderploeg.com/NPLStoolbox/): N-way Partial Least Squares for Longitudinal Microbiome data.
-- [CMTFtoolbox](https://grvanderploeg.com/CMTFtoolbox/): integration of multi-way datasets using Advanced Coupled and Matrix Tensor Factorization.
+-   [parafac4microbiome](https://grvanderploeg.com/parafac4microbiome/): Parallel Factor Analysis Modelling of Longitudinal Microbiome Data.\
+-   [NPLStoolbox](https://grvanderploeg.com/NPLStoolbox/): N-way Partial Least Squares for Longitudinal Microbiome data.\
+-   [CMTFtoolbox](https://grvanderploeg.com/CMTFtoolbox/): integration of multi-way datasets using Advanced Coupled and Matrix Tensor Factorization.
