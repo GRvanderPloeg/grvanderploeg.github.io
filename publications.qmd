@@ -6,19 +6,19 @@ editor: visual
 
 # First authorships
 
--   **van der Ploeg, G. R.**, Westerhuis, J., Heintz-Buschart, A., & Smilde, A. (2025). ACMTF-R: multi-way data fusion using biological variation of interest. Article in preparation.
+-   **van der Ploeg, G. R.**, White, F. T. G., Jakobsen, R. R., Westerhuis, J., Heintz-Buschart, A., & Smilde, A. (2025). ACMTF-R: supervised multi-omics data integration uncovering shared and distinct outcome-associated variation. *bioRxiv*, 2025-07. <https://doi.org/10.1101/2025.07.28.667162>
 
 -   **van der Ploeg, G. R.**, Brandt, B. W., Keijser, B. J. F., Van Der Veen, M. H., Volgenant, C. M. C., Zaura, E., Smilde, A. K., Westerhuis, J. A., & Heintz-Buschart, A. (2024). Multi-way modelling of oral microbial dynamics and host-microbiome interactions during induced gingivitis. *Npj Biofilms And Microbiomes*, 10(1). <https://doi.org/10.1038/s41522-024-00565-x>
 
--   **van der Ploeg, G. R.**, Westerhuis, J., Heintz-Buschart, A., & Smilde, A. (2024). parafac4microbiome: Exploratory analysis of longitudinal microbiome data using Parallel Factor Analysis. *bioRxiv*, 2024-05. <https://doi.org/10.1101/2024.05.02.592191>
+-   **van der Ploeg, G. R.**, Westerhuis, J., Heintz-Buschart, A., & Smilde, A. (2024). parafac4microbiome: Exploratory analysis of longitudinal microbiome data using Parallel Factor Analysis. *mSystems*, 10(6), e00472-25. 2024-05. <https://doi.org/10.1128/msystems.00472-25>
 
 # Joint first authorships
 
--   Jakobsen, R. R.\*, **van der Ploeg, G. R.\*** , Sundekilde, U. K., Astono, J., Poulsen, K. O., Fuglsang, J., Westerhuis, J. A., Heintz-Buschart, A. Smilde, A. K., Nielsen, D. S. (2025). Supervised Modelling of Longitudinal Human Milk and Infant Gut Microbiome Reveal Maternal Pre-Pregnancy BMI and Early Life Growth Interactions. Article in preparation.
+-   Jakobsen, R. R.\*, **van der Ploeg, G. R.\*** , Sundekilde, U. K., Astono, J., Poulsen, K. O., Fuglsang, J., Westerhuis, J. A., Heintz-Buschart, A. Smilde, A. K., Nielsen, D. S. (2025). Supervised Modelling of Longitudinal Human Milk and Infant Gut Microbiome Reveal Maternal Pre-Pregnancy BMI and Early Life Growth Interactions. *Research Square*, 31 March 2025. <https://doi.org/10.21203/rs.3.rs-6244750/v1>
 
--   Cornejo Ulloa, P.\*, **van der Ploeg, G. R.\*** , Heintz-Buschart, A., Westerhuis J. A., Smilde, A. K., Zaura, E., Brandt, B. W., Buijs, M. J., Bostanci, N., Silbereisen, A., Bikker, F. J., Nazmi, K., Tebbens, M., van der Heijer, M., Krom, B. P., van der Veen, M. H. (2025). Shifting Hormones, Shaping Health: Gender-Affirming Therapy & Oral Care. Article in preparation.
+-   Cornejo Ulloa, P.\*, **van der Ploeg, G. R.\*** , Heintz-Buschart, A., Westerhuis J. A., Smilde, A. K., Zaura, E., Brandt, B. W., Buijs, M. J., Bostanci, N., Silbereisen, A., Bikker, F. J., Nazmi, K., Tebbens, M., van der Heijer, M., Krom, B. P., van der Veen, M. H. (2025). Shifting Hormones, Shaping Health: Gender-Affirming Therapy & Oral Care. *International Journal of Transgender Health*, 1-17. <https://doi.org/10.1080/26895269.2025.2549794>
 
--   Georgiou, A. C.\*, **van der Ploeg, G. R.\*** , Westerhuis, J. A., van der Waal, S. V., Heintz-Buschart A., Smilde, A. K., Brandt, B. W. (2025). Multi-way modelling of the microbiome in relation to inflammatory response of apical periodontitis in blood. Submitted.
+-   Georgiou, A. C.\*, **van der Ploeg, G. R.\*** , Westerhuis, J. A., van der Waal, S. V., Heintz-Buschart A., Smilde, A. K., Brandt, B. W. (2025). Multi-way modelling of the microbiome in relation to inflammatory response of apical periodontitis in blood. *International Endodontic Journal*, 1-14. <https://doi.org/10.1111/iej.70023>
 
 # Co-authorships
 
